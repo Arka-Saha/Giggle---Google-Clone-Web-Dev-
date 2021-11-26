@@ -7,4 +7,13 @@
 
 <br><br>
 
-``Some Screenshots of this wonderful project :``
+## ``Some Screenshots of this marvy project :``
+
+## 1) Giggle Browser Page
+  <img src="images_for_github/pic1.JPG">
+  
+## 2) When Search is clicked with no query written
+  <img src="images_for_github/pic2.JPG">
+  
+## 3) Hindi Mode (Other Compatible Languages, including Bengali)
+  <img src="images_for_github/pic3.JPG">
