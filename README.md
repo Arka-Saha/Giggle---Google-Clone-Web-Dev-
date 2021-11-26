@@ -3,11 +3,14 @@
 
 <br>
 
-*This is a simple weekend project, created using HTML5, CSS and JS. Full Frontend and simplified Backend has been used to make this project easily understandable and accessible!*
+*This is a simple yet dope weekend project, created using HTML5, CSS and JS. Full Frontend and simplified Backend has been used to make this project easily understandable and accessible!*
 
 <br><br>
 
 ## ``The Main Files :``
+
+## Install these files and run the index.html file :
+   <img src="images_for_github/pic4.JPG">
 
 <br><br>
 
